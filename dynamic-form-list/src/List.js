@@ -80,7 +80,6 @@ class List extends Component {
     render() {
         return (
             <div className="List">
-                <title>W3.CSS</title>
                 <header className="List-header">
                     <h2>Add Person</h2>
                     <table>
